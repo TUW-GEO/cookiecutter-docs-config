@@ -2,6 +2,6 @@
 
 This Repository contains the styling for code documentation generated with `MyST` at TU Wien.
 
-It is directly used by project created via
+It is directly used by project created via [Package Cookiecutter].
 
 [Package Cookiecutter]: https://github.com/TUW-GEO/cookiecutter-tuw-package
