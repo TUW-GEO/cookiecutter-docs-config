@@ -4,7 +4,7 @@ site:
   template: book-theme
   options:
     folders: true
-    favicon: https://github.com/TUW-GEO/cookiecutter-docs-config/-/raw/main/logos/favicon/favicon.ico
-    logo: https://github.com/TUW-GEO/cookiecutter-docs-config/-/raw/main/logos/TU_Logo.png
+    favicon: https://github.com/TUW-GEO/cookiecutter-docs-config/raw/main/logos/favicon/favicon.ico
+    logo: https://github.com/TUW-GEO/cookiecutter-docs-config/raw/main/logos/TU_Logo.png
     logo_url: https://tuwien.ac.at
-    style: https://github.com/TUW-GEO/cookiecutter-docs-config/-/raw/main/styles/tu-geo-style.css
+    style: https://github.com/TUW-GEO/cookiecutter-docs-config/raw/main/styles/tu-geo-style.css
